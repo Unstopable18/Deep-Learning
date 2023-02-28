@@ -39,3 +39,5 @@ Thumbs.db
 .ipynb_checkpoints
 .vscode
 openvino_env
+test
+train
